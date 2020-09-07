@@ -1,6 +1,6 @@
 ---
 name: '🐛 Bug Report'
-about: Bug report for the rapid web interface
+about: Bug report for the [project]
 title: ''
 labels: bug
 assignees: ''

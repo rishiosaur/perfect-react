@@ -1,6 +1,6 @@
 ---
 name: '🚀 Feature request'
-about: Request a feature for the rapid web interface
+about: Request a feature for the [project]
 title: ''
 labels: enhancement
 assignees: ''
